@@ -32,3 +32,4 @@ A set of predictive models that use machine learning to make predictions based o
 A report that summarizes the findings and provides recommendations based on the insights gained from the data.
 Conclusion
 This project demonstrates the power and potential of data science to extract insights and solve real-world problems. By leveraging the tools and techniques of data science, businesses and organizations can gain a competitive advantage and make better decisions based on data-driven insights.
+ss
